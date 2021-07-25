@@ -1,0 +1,2 @@
+HEAD="head"
+TAIL="tail"
